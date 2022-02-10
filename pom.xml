@@ -22,7 +22,7 @@
     <slf4j.version>1.7.25</slf4j.version>
     <spring-jdbc.version> 5.2.0.RELEASE</spring-jdbc.version>
     <spring-version>5.2.0.RELEASE</spring-version>
-    <hibernate-version>5.4.9.Final</hibernate-version>
+    <hibernate-version>5.4.24.Final</hibernate-version>
     <jackson-json.version>2.10.0</jackson-json.version>
     <spring-security.version>5.2.0.RELEASE</spring-security.version>
 
